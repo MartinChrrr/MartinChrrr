@@ -1,4 +1,4 @@
-# Salut, moi c'est Martin 👋
+# Martin Charrier
 
 Développeur fullstack en alternance, je travaille actuellement chez **MakeProps** sur des API Node/PHP, des applications React (SSR) et des bases PostgreSQL & Neo4j.
 
