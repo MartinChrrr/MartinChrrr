@@ -2,7 +2,7 @@
 
 Développeur fullstack en alternance, je travaille actuellement chez **MakeProps** sur des API Node/PHP, des applications React (SSR) et des bases PostgreSQL & Neo4j.
 
-Avant ça, j'ai passé un an chez **Hyperfiction** à Annecy où j'ai conçu 3 applications XR éducatives en C#/Unity — dont 2 en totale autonomie.
+Avant ça, j'ai passé un an chez **Hyperfiction** à Annecy où j'ai conçu 3 applications XR éducatives en C#/Unity — dont 2 en totale autonomie et un an chez **MakeProps** sur des API Node/PHP, des applications React (SSR) et des bases PostgreSQL & Neo4j..
 
 Je prépare mon titre **Concepteur Développeur d'Applications** (Bac+3) chez Handigital.
 
