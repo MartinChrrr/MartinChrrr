@@ -14,7 +14,7 @@ Je prépare mon titre **Concepteur Développeur d'Applications** (Bac+3) chez Ha
 Back-end       PHP · Node.js · Express · TypeScript
 Front-end      React · React Router · SSR · Tailwind
 Bases de données   PostgreSQL · MySQL · Neo4j
-Outils         Git · Docker · Linux · Cursor · Claude Code
+Outils         Git · Docker · Linux · Jira  · Cursor · Claude Code 
 ```
 
 ### 📂 Projets
