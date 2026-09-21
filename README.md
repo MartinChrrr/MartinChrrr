@@ -1,6 +1,6 @@
 # Martin Charrier
 
-Développeur fullstack en alternance, je travaille actuellement chez **MakeProps** sur des API Node/PHP, des applications React (SSR) et des bases PostgreSQL & Neo4j.
+Développeur fullstack en alternance, je travaille actuellement chez **Esker**.
 
 Avant ça, j'ai passé un an chez **Hyperfiction** à Annecy où j'ai conçu 3 applications XR éducatives en C#/Unity — dont 2 en totale autonomie et un an chez **MakeProps** sur des API Node/PHP, des applications React (SSR) et des bases PostgreSQL & Neo4j..
 
